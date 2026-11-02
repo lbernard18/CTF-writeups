@@ -1,10 +1,10 @@
 # HackLu 2026 - Declassifier (Pwn)
-**Author:** Louis Bernard
-**Date:** 2026-10-25
-**Category:** Pwn
-**Target Architecture:** x86-64 / Linux
-**Vulnerability Type:** Buffer overflow
-**Impact:** Execution of the `execve()` syscall to open a shell
+**Author:** Louis Bernard  
+**Date:** 2026-10-25  
+**Category:** Pwn  
+**Target Architecture:** x86-64 / Linux  
+**Vulnerability Type:** Buffer overflow  
+**Impact:** Execution of the `execve()` syscall to open a shell  
 
 
 
