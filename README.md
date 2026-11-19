@@ -1,16 +1,16 @@
 # CTF Writeups
 
-Ce dépôt regroupe mes writeups et scripts de résolution pour les compétitions Capture The Flag (CTF) auxquelles je participe.
+This repository contains my writeups and exploit scripts for Capture The Flag (CTF) competitions I participate in (Insomnihack, Hack.lu, LakeCTF, etc.).
 
-Chaque dossier suit la convention `<CTF>-<Catégorie>-<Challenge>-<MM-AAAA>` et contient l'analyse technique de la vulnérabilité ainsi que l'exploit associé.
+Each directory follows the `<CTF>-<Category>-<Challenge>-<MM-YYYY>` naming convention and includes a technical analysis of the vulnerability along with the corresponding exploit.
 
-## Index des writeups
+## Writeups Index
 
-| Date | CTF | Challenge | Catégorie | Writeup |
+| Date | CTF | Challenge | Category | Writeup |
 | :--- | :--- | :--- | :--- | :--- |
-| 10/2026 | Hack.lu CTF | Declassifier | Pwn | [Accéder au writeup](./HackLu-Pwn-Declassifier-10-2026) |
+| 10/2026 | Hack.lu CTF | Declassifier | Pwn | [Read writeup](./HackLu-Pwn-Declassifier-10-2026) |
 
-## Domaines couverts
-- **Web** : injections, contournement d'authentification (JWT/OAuth2), logique métier
-- **Pwn & Reverse Engineering** : exploitation binaire, analyse statique/dynamique (Ghidra, GDB/pwndbg)
-- **Cryptographie** : attaques sur implémentations et protocoles
+## Focus Areas
+- **Web:** Injections, authentication bypasses (JWT/OAuth2), business logic flaws
+- **Pwn & Reverse Engineering:** Binary exploitation, static/dynamic analysis (Ghidra, GDB/pwndbg)
+- **Cryptography:** Implementation and protocol attacks
