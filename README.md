@@ -1,6 +1,6 @@
 # CTF Writeups
 
-This repository contains my writeups and exploit scripts for Capture The Flag (CTF) competitions I participate in (Insomnihack, Hack.lu, LakeCTF, etc.).
+This repository contains my writeups and exploit scripts for Capture The Flag (CTF) competitions I participate in.
 
 Each directory follows the `<CTF>-<Category>-<Challenge>-<MM-YYYY>` naming convention and includes a technical analysis of the vulnerability along with the corresponding exploit.
 
